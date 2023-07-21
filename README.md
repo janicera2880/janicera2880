@@ -63,4 +63,3 @@ I'm excited to engage with fellow professionals and exchange ideas. Whether it's
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janicera2880&layout=compact&theme=vision-friendly-dark)](https://github.com/janicera2880/github-readme-stats)
 
-![Snake animation](https://github.com/janicera2880/myProfile/blob/output/github-contribution-grid-snake.svg)
