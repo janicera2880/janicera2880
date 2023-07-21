@@ -1,5 +1,8 @@
+
+
+
 <h1>
-  Welcome To My GitHub Page!
+  WELCOME to my GitHub PAGE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=janicera2880&style=flat-square&color=green" alt="profile views"/>
