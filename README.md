@@ -59,7 +59,12 @@ I'm excited to engage with fellow professionals and exchange ideas. Whether it's
 
 ### :chart_with_upwards_trend: &nbsp;My Streak Stats :
 
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=janicera2880&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janicera2880&layout=compact&theme=vision-friendly-dark)](https://github.com/janicera2880/github-readme-stats)
+
+</div>
+
 
