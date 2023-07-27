@@ -1,10 +1,10 @@
 
 
+![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/janicera2880/janicera2880/assets/104116819/404103ce-0f97-4d9d-a288-e283c66163ec)
 
-<h1>
-  WELCOME to my GitHub PAGE
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+ 
+
 <img src="https://komarev.com/ghpvc/?username=janicera2880&style=flat-square&color=green" alt="profile views"/>
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200"/>
@@ -18,8 +18,12 @@
 
 ---
 
+<h1>
+  WELCOME to my GitHub PAGE
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-### :raising_hand_woman:  &nbsp;About Me :
+### :raising_hand_woman:  &nbsp;About Me:
 I'm a passionate Software Engineer and Full Stack Developer, certified by Flatiron School, with a deep love for creating innovative solutions and exploring the dynamic world of full-stack development.
 
 ### :mortar_board: &nbsp;Professional Journey :
